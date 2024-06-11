@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CvwiNhGXjsePE4cDFJTa1OVMD98eY26at8pk4+6zuKN/Yyh9/IeTwAykwZT07lEU1AF3nfKwUeM8wf14rj7/Bg==",
+  "dgSpecHash": "iolX3Al5XFhsHrmJuaMoKLJMa5y9bXE1of7cZnU9B9WIfrxap7DbLUef3zyjpyaVY/R0wz2XAK4mP8mmgMM0JQ==",
   "success": true,
-  "projectFilePath": "E:\\Repos\\TodoApi Project\\TestTodoAPI\\TestTodoAPI.csproj",
+  "projectFilePath": "E:\\Repos\\TodoApi\\TestTodoAPI\\TestTodoAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\widmo\\.nuget\\packages\\autofixture\\4.18.1\\autofixture.4.18.1.nupkg.sha512",
     "C:\\Users\\widmo\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

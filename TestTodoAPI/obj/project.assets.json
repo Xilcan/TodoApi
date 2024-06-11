@@ -5983,11 +5983,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Repos\\TodoApi Project\\TestTodoAPI\\TestTodoAPI.csproj",
+      "projectUniqueName": "E:\\Repos\\TodoApi\\TestTodoAPI\\TestTodoAPI.csproj",
       "projectName": "TestTodoAPI",
-      "projectPath": "E:\\Repos\\TodoApi Project\\TestTodoAPI\\TestTodoAPI.csproj",
+      "projectPath": "E:\\Repos\\TodoApi\\TestTodoAPI\\TestTodoAPI.csproj",
       "packagesPath": "C:\\Users\\widmo\\.nuget\\packages\\",
-      "outputPath": "E:\\Repos\\TodoApi Project\\TestTodoAPI\\obj\\",
+      "outputPath": "E:\\Repos\\TodoApi\\TestTodoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\widmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6004,8 +6004,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Repos\\TodoApi Project\\TodoApi\\TodoApi.csproj": {
-              "projectPath": "E:\\Repos\\TodoApi Project\\TodoApi\\TodoApi.csproj"
+            "E:\\Repos\\TodoApi\\TodoApi\\TodoApi.csproj": {
+              "projectPath": "E:\\Repos\\TodoApi\\TodoApi\\TodoApi.csproj"
             }
           }
         }
